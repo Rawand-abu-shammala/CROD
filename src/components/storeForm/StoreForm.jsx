@@ -1,4 +1,3 @@
-// components/storeForm.jsx
 import React from 'react';
 
 const StoreForm = ({ storeData, handleChange, handleSubmit }) => {

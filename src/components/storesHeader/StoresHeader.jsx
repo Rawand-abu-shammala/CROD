@@ -1,4 +1,3 @@
-// components/storesHeader.jsx
 import React from 'react';
 
 const StoresHeader = () => {
